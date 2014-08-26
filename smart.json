@@ -5,9 +5,6 @@
   "author": "Evan Simmons <esims89@gmail.com>",
   "version": "1.4.3.8",
   "git": "https://github.com/estk/meteor-rickshaw",
-  "packages": {
-      "d3": {
-        "git": "https://github.com/percolatestudio/meteor-d3"
-      }
+  "packages": {}
     }
 }
